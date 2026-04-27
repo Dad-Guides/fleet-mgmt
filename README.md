@@ -1,2 +1,2 @@
-# CS04
-A case study that explores how context changes legal guidance. 
+# Fleet Management
+A small html and js app that helps with bike shop management.
